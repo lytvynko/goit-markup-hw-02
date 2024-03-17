@@ -24,14 +24,14 @@ body {
 h1 {
     font-size: 56px;
     font-weight: 700;
-    line-height: 0.93;
+    line-height: .93;
     letter-spacing: 1.12px;
     color:  var(--white);
 }
 h2 {
     font-size: 36px;
     font-weight: 700;
-    line-height: 0.9;
+    line-height: .9;
     letter-spacing: 0.72px;
     color: var(--navy-blue);
     text-transform: capitalize;
@@ -39,7 +39,7 @@ h2 {
 h3 {
     font-size: 20px;
     font-weight: 500;
-    line-height: 0.83;
+    line-height: .83;
     letter-spacing: 0.4px;
     text-transform: capitalize;
     color: var(--navy-blue);
@@ -69,7 +69,7 @@ a {
     font-size: 18px;
     font-style: normal;
     font-weight: 800;
-    line-height: 086;
+    line-height: .86;
     letter-spacing: 0.54px;
     text-transform: uppercase;
 }

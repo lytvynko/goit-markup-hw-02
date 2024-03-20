@@ -14,33 +14,34 @@
 }
 body {
   font-family: "Roboto", sans-serif;
-  font-weight: 400;
+  
   font-size: 16px;
   line-height: 1.5;
   color: var(--slate);
   background-color: var(--white);
   box-sizing: border-box;
+  color: var(--slate);
+  letter-spacing: .02em;
 }
 h1 {
   font-size: 56px;
-  font-weight: 700;
-  line-height: 0.93;
-  letter-spacing: 1.12px;
+  line-height: 1.07 ;
+  letter-spacing: 0.02em;
   color: var(--white);
 }
 h2 {
   font-size: 36px;
   font-weight: 700;
-  line-height: 0.9;
-  letter-spacing: 0.72px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
   color: var(--navy-blue);
   text-transform: capitalize;
 }
 h3 {
   font-size: 20px;
   font-weight: 500;
-  line-height: 0.83;
-  letter-spacing: 0.4px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
   text-transform: capitalize;
   color: var(--navy-blue);
 }
